@@ -1,4 +1,5 @@
 ### Hi there 👋
+![banner](https://user-images.githubusercontent.com/107588804/193679839-384ccb5f-059c-4242-8009-64eadb59e57c.png)
 
 <!--
 **Chloeida123/Chloeida123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
