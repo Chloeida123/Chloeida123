@@ -7,7 +7,7 @@ I'm recently graduate as a full stack developer. I currently live in New Zealand
 
 ### 🤝 Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chloe-agatha-ida/) &nbsp;
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chloe-agatha-ida-632074103/) &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chloe.agatha.ida@gmail.com)
 
 🌱 I’m currently learning ...
